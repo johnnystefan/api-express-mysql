@@ -1,0 +1,13 @@
+{
+    "name": "warehouseName_1",
+    "headquartersNumber": 1300000,
+    "description": [{
+        "phone": 3000000000,
+        "city": "Bogota",
+        "address": "Cr 1 #2-3"
+    },{
+        "phone": 3000000000,
+        "city": "Bogota",
+        "address": "Cr 1 #2-3"
+    }]
+}
